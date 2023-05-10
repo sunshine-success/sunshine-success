@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Wolfgang Koch, a full-time full-stack developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Gabriel Simon, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on React and Next app  
